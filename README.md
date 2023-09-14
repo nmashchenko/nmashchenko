@@ -21,15 +21,15 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/exortme1ster/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=exortme1ster&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/nmashchenko/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nmashchenko&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/exortme1ster/github-readme-stats"><img alt="Nikita Mashchenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=exortme1ster&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/nmashchenko/github-readme-stats"><img alt="Nikita Mashchenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nmashchenko&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <br/>
 
@@ -44,4 +44,4 @@
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 </a>
-<a href="https://github.com/exortme1ster?tab=followers"><img src="https://img.shields.io/github/followers/exortme1ster?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/nmashchenko?tab=followers"><img src="https://img.shields.io/github/followers/nmashchenko?label=Followers&style=social" alt="GitHub Badge"></a>
