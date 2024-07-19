@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mashchenko.tech)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mashchenko.dev)**
 
 - 📫 How to reach me **mashchenko1@icloud.com**
 
