@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[superpower](https://superpower.com)**
 
-- 🌱 I’m currently learning **NextJS/TS**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **any Projects**
 
